@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shiningext/shiningext/blob/main/assets/photo_2025-01-29_16-08-43.jpg" alt="Your Photo" width="700">
+  <img src="https://i.imgur.com/3eSQV7J.jpeg" alt="Your Photo" width="700">
 </p>
 
 <h2 align="center">High-Level Python Development | Web Development | Automation</h2>
